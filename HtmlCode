@@ -13,7 +13,7 @@
   
     <form action="form1.html">
 
-    <label for="name">FIRSTNAME:</label>
+    <label for="name">FIRST</label>
     <input type="text" id="fname" name="fname" value="Poornima" readonly><br><br>
 
     <label for="name">LASTNAME:</label>
